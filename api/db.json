@@ -1,0 +1,196 @@
+{
+  "posts": [
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "Number": "",
+      "id": 6
+    },
+    {
+      "name": "bhavini",
+      "email": "ghjsdjda@gmail.com",
+      "password": "9iuyy",
+      "Number": "988769594",
+      "id": 9
+    },
+    {
+      "name": "DERF",
+      "email": "vinal@gmail.com",
+      "password": "werrrt",
+      "Number": "759",
+      "id": 10
+    },
+    {
+      "name": "Vaihs",
+      "email": "vinal@gmail.com",
+      "password": "werrrt",
+      "Number": "23232",
+      "id": 11
+    },
+    {
+      "name": "",
+      "email": "vinal@gmail.com",
+      "password": "werrrt",
+      "Number": "87665507",
+      "id": 12
+    }
+  ],
+  "books": [
+    {
+      "id": 4,
+      "author_id": 2,
+      "title": "IT",
+      "cover_image": "",
+      "pages": "504",
+      "releaseDate": "2018",
+      "isbn": "yu098"
+    },
+    {
+      "id": 6,
+      "author_id": 4,
+      "title": "Kafka on the Shore",
+      "cover_image": "http://t0.gstatic.com/images?q=tbn:ANd9GcRHFU_j93PPsbQGqoaZJnHH6-Emk_sIxG823SkoRTL0nvdEP41f",
+      "pages": 505,
+      "releaseDate": "2009",
+      "isbn": "op012"
+    },
+    {
+      "id": 7,
+      "author_id": 4,
+      "title": "After Dark",
+      "cover_image": "http://t3.gstatic.com/images?q=tbn:ANd9GcQBMNA8A19vQpNY4bkgadsLhiRUFqBKwKAA6ANrw8VEtOiPrYQJ",
+      "pages": 208,
+      "releaseDate": "2005",
+      "isbn": "cv456"
+    },
+    {
+      "author_id": "3",
+      "title": "ghj",
+      "pages": "456",
+      "releaseDate": "24/8/2022",
+      "id": 8
+    },
+    {
+      "author_id": "3",
+      "title": "ghj",
+      "pages": "456",
+      "releaseDate": "24/8/2022",
+      "id": 9
+    },
+    {
+      "author_id": "6",
+      "title": "pankida",
+      "pages": "465",
+      "releaseDate": "7/7/2021",
+      "id": 10
+    },
+    {
+      "author_id": "7",
+      "title": "mfhgd",
+      "pages": "98",
+      "releaseDate": "6/8/2021",
+      "id": 11
+    },
+    {
+      "author_id": "9",
+      "title": "jhg",
+      "pages": "909",
+      "releaseDate": "6/6/2021",
+      "id": 12
+    },
+    {
+      "author_id": "6",
+      "title": "ghf",
+      "pages": "65",
+      "releaseDate": "24/8/2022",
+      "id": 13
+    },
+    {
+      "author_id": "3",
+      "title": "gh",
+      "pages": "456",
+      "releaseDate": "24/8/2022",
+      "id": 14
+    },
+    {
+      "author_id": "6",
+      "title": "cvs",
+      "pages": "98",
+      "releaseDate": "24/8/2022",
+      "id": 15
+    },
+    {
+      "author_id": "11",
+      "title": "rty",
+      "pages": "98",
+      "releaseDate": "24/8/2022",
+      "id": 16
+    },
+    {
+      "author_id": "3",
+      "title": "jhg",
+      "pages": "98",
+      "releaseDate": "1956",
+      "id": 17
+    },
+    {
+      "author_id": "",
+      "title": "",
+      "pages": "",
+      "releaseDate": "",
+      "id": 18
+    }
+  ],
+  "mobiles": [
+    {
+      "id": 2,
+      "brand": "oppo",
+      "price": 30500,
+      "camera": 2,
+      "country": "u.s"
+    },
+    {
+      "id": 3,
+      "brand": "mi",
+      "price": 20500,
+      "camera": 1,
+      "country": "chin"
+    },
+    {
+      "brand": "oneplus",
+      "price": "jbhv",
+      "camera": "bgc",
+      "country": "gc",
+      "id": 6
+    },
+    {
+      "brand": "apple",
+      "price": "90000",
+      "camera": "5",
+      "country": "canada",
+      "id": 7
+    },
+    {
+      "brand": "tecno",
+      "price": "8000",
+      "camera": "2",
+      "country": "india",
+      "id": 8
+    },
+    {
+      "brand": "samsung",
+      "price": "40000",
+      "camera": "4",
+      "country": "japan",
+      "id": 9
+    },
+    {
+      "brand": "redmi",
+      "price": "10000",
+      "camera": "2",
+      "country": "china",
+      "id": 10
+    }
+  ]
+}
